@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -61,11 +61,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffdf_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "V1_mcp2515_based.kicad_prl",
+    "filename": "V1_mini_mcp2515_based.kicad_prl",
     "version": 3
   },
   "project": {
