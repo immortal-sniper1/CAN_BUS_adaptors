@@ -14,17 +14,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": true,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_fffffffe",
+    "visible_layers": "7fdffff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "V1_mini_mcp2515_based.kicad_prl",
+    "filename": "V1_mini_mcp2561_based.kicad_prl",
     "version": 3
   },
   "project": {
